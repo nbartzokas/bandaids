@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>Lab-Sizer-Killer</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/osascript</string>
+        <string>/Users/fapace/Documents/lab/applescripts/Lab-Sizer-Killer.scpt</string>
+        <string>EntryPortal</string>
+        <string>EntryPortal</string>
+        <string>-1080</string>
+        <string>0</string>
+        <string>3240</string>
+        <string>1920</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
